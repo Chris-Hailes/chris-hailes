@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+A blog about my technical adventures in Cloud, Networking, and Security along with all the craft beer I consume along the way!
+
 <!--
 **Chris-Hailes/chris-hailes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
